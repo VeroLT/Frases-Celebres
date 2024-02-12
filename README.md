@@ -13,5 +13,3 @@
 "La mayoría del software actual es muy parecido a una pirámide egipcia, con millones de ladrillos puestos unos encima de otros sin una estructura integral, simplemente realizada a base de fuerza bruta y miles de esclavos" **Alan Kay** Programador
 
 "Pienso que hay mercado en el mundo como para unos cinco ordenadores" **Thomas J. Watson** Presidente de la Junta Directiva de IBM, sobre 1948
-
-"640K deberían ser suficientes para cualquiera", hablando de memoria RAM atribuida a **Bil Gates**, que niega haberla dicho
