@@ -13,3 +13,9 @@
 "La mayoría del software actual es muy parecido a una pirámide egipcia, con millones de ladrillos puestos unos encima de otros sin una estructura integral, simplemente realizada a base de fuerza bruta y miles de esclavos" **Alan Kay** Programador
 
 "Pienso que hay mercado en el mundo como para unos cinco ordenadores" **Thomas J. Watson** Presidente de la Junta Directiva de IBM, sobre 1948
+
+"No puedo enseñar nada a nadie. Solo puedo hacerles pensar" Sócrates.
+
+"Felicidad no es hacer lo que uno quiere sino querer lo que uno hace" Jean Paul Sartre.
+
+
